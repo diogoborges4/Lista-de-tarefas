@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from "react";
 import Tmdb from "./Tmdb";
 import MovieRow from "./components/MovieRow";
-import App from "./App.css"
+import "./App.css"
 import FeatureMovie from "./components/FeatureMovie";
 import Header from "./components/Header";
 
